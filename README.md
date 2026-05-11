@@ -218,8 +218,6 @@ to evaluate model performance and detect overfitting/underfitting.
 
 **Eko Hendrawan**
 
-Dicoding ID: `eko_i4b7`
-
 ---
 
 # ⭐ Notes
