@@ -70,20 +70,6 @@ This project provides the trained model in multiple formats:
 
 ---
 
-# 📁 Project Structure
-
-```text
-submission/
-├── saved_model/
-├── tfjs_model/
-├── tflite/
-├── Submission.ipynb
-├── README.md
-└── requirements.txt
-```
-
----
-
 # ▶️ How to Run the Project
 
 ## 1️⃣ Clone Repository
